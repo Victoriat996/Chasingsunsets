@@ -30,7 +30,7 @@ business.html       Recruitment and opportunity page
 travel.html         Self-service booking redirect page
 about.html          Victoria's story
 stories.html        Success stories
-travel-club.html    Monthly digital magazine signup
+travel-edit.html    Monthly digital magazine signup
 contact.html        Business information enquiry
 terms.html          Terms of Business
 privacy.html        Privacy Policy
