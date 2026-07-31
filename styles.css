@@ -112,3 +112,6 @@ p{margin:0 0 20px;color:var(--muted)}
   .why-home-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;gap:40px;}
   .home-quote{font-size:clamp(2.4rem, 9vw, 3.3rem);}
 }
+
+.story-photo{width:120px;height:120px;border-radius:50%;object-fit:cover;margin:0 auto 20px;border:4px soilid var(--gold);box-shadow:0 12px 30px rgba(0,0,0 .12);}
+.testimonial{text-align:center;}
