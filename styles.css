@@ -110,6 +110,4 @@ p{margin:0 0 20px;color:var(--muted)}
   .why-home{padding:60px 0;}
   .why-home-grid{grid-template-columns:1fr;gap:40px;}
   .home-quote{font-size:clamp(2.4rem, 9vw, 3.3rem);}
-  .why-home-image img{height:430px;}
-}
 
